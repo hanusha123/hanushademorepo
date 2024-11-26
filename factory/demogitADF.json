@@ -1,0 +1,9 @@
+{
+	"name": "demogitADF",
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "40ebad70-0daf-4954-a2d9-f75d97851b1e",
+		"tenantId": "ea3b3317-1f67-4f54-80bd-9ecd235b0f76"
+	}
+}
